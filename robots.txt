@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://otonsfick.github.io/sitemap.html.gz
+Sitemap: https://otonsfick.github.io/app/sitemap.html.gz
+Sitemap: https://otonsfick.github.io/assets/sitemap.html.gz
+Sitemap: https://otonsfick.github.io/css/sitemap.html.gz
+Sitemap: https://otonsfick.github.io/includes/sitemap.html.gz
+Sitemap: https://otonsfick.github.io/item/sitemap.html.gz
+Sitemap: https://otonsfick.github.io/src/sitemap.html.gz
